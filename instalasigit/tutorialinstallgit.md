@@ -24,7 +24,7 @@ Tampilan penempatan dari file download aplikasi git.
 ![Gambar instalasi 3](../img/ssinstall3.JPG)
 <br>Selanjutnya pemilihan komoponen, biarkan saja seperti ini kemudian klik Next >.<br>
 ![Gambar instalasi 4](../img/ssinstall4.JPG)
-<br>Selanjutnya pemlilihan direktori start menu, klik Next >.
+<br>Selanjutnya pemlilihan direktori start menu, klik Next >.<br>
 ![Gambar instalasi 5](../img/ssinstall5.JPG)
 <br>Selanjutnya pengaturan PATH Environment. Pilih yang tengah agar perintah git dapat di kenali di Command Prompt (CMD). Setelah itu klik Next >.<br>
 ![Gambar instalasi 6](../img/ssinstall6.JPG)
