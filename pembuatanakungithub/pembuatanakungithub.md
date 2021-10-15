@@ -34,5 +34,5 @@ Langkah terakhir periksa email yang anda daftarkan ke github, Ada 6 digit kode v
 
 ![Gambar 5](../img/verifikasiemailsuccess.png) <br>
 
-Lihat di pojok kiri atas situs ada notifikasi "Your email was verified" artinya email anda sudah ter-verifikasi dan akun github sudah siap digunakan. Nah itulah tadi Cara Mendaftar Atau Membuat Akun Github Terbaru, Github sangat cocok untuk digunakan programmer apalagi yang sering bekerjasama dengan team atau menyimpan source code, Dengan menggunakan github kita bisa memanjemen proyek atau source code yang dikembangkan dengan lebih fleksibel dan terstruktur, Sekian artikel kali ini semoga bermanfaat
+Lihat di pojok kiri atas situs ada notifikasi "Your email was verified" artinya email anda sudah ter-verifikasi dan akun github sudah siap digunakan. Nah itulah tadi Cara Mendaftar Atau Membuat Akun Github Terbaru, Github sangat cocok untuk digunakan programmer apalagi yang sering bekerjasama dengan team atau menyimpan source code, Dengan menggunakan github kita bisa memanjemen proyek atau source code yang dikembangkan dengan lebih fleksibel dan terstruktur, Sekian tutorial kali ini semoga bermanfaat.
 
