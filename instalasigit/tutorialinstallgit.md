@@ -1,10 +1,10 @@
 # Tutorial menginstall git di pc
 
-## langkah pertama
+## langkah pertama <h2>
 yaitu mendownload aplikasi gitnya dengan mengunjungi website nya,berikut linknya. 
 [Link Download](https://git-scm.com/downloads)
 
-### langkah kedua
+### langkah kedua <h2><hr>
 jika sudah memasuki websitenya, lalu pilih bagian download seperti yang ada di tampilan.
 ![Gambar 1](../img/ss1tutorialinstallgit.png)
 
