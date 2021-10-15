@@ -4,7 +4,7 @@
 1.Kunjungi Situs Resmi Github (github.com) <br>
 Langkah pertama untuk membuat/mendaftar akun github, silahkan kunjungi situs resmi nya di github.com, Kemudian klik tombol Sign Up di pojok kanan atas, Untuk melakukan pendaftaran akun.
 
-![Gambar 1](../img/websitegithub.png) <br>
+![Gambar 1](../img/websitegithub.png)
 
 ### <h2> langkah kedua
 2. Mengisi Formulir Pendaftaran Akun
