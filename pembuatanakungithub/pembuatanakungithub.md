@@ -22,4 +22,4 @@ Jika semuanya sudah diisi tahap berikutnya klik continue untuk melanjutkan. <br>
 3. Melewati Verifikasi Akun
 Setelah menekan tombol continue akan tampil verifikasi akun, Hal ini sepertinya adalah salah satu syarat keamanan dari github untuk mendaftar akun, Agar data yang terisi memang dibuat oleh manusia bukan bot, akan muncul verifikasi seperti memilih gambar dibawah ini, pilih sesuai ketentuan petunjuk misal (pick the spiral galaxy) kita diharuskan untuk memilih galaxy yang berbentuk spiral. <br>
 
-![Gambar 3](../img/verfikasiakun.png) <br>
+![Gambar 3](../img/verifikasiakun.png) <br>
