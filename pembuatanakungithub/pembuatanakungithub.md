@@ -10,10 +10,10 @@ Langkah pertama untuk membuat/mendaftar akun github, silahkan kunjungi situs res
 2. Mengisi Formulir Pendaftaran Akun
 Selanjutnya anda akan dialihkan ke formulir pendaftaran akun github, Ada beberapa hal yang harus anda isi seperti (Alamat email, Password baru, Username dan Konfirmasi penerimaan update dari github ke email terdaftar), Berikut contoh data yang diisi :
 
-Email : adnanerlansyah403@gmail.com
-Password : *********
-Username : adnanerlansyah403
-Konfirmasi penerimaan pesan update dari github : y (opsional anda dapat memilih n atau no untuk tidak menerima update dari ke email terdaftar dari github)
+Email : adnanerlansyah403@gmail.com <br>
+Password : *********    <br>
+Username : adnanerlansyah403 <br>
+Konfirmasi penerimaan pesan update dari github : y (opsional anda dapat memilih n atau no untuk tidak menerima update dari ke email terdaftar dari github) <br>
 Jika semuanya sudah diisi tahap berikutnya klik continue untuk melanjutkan. <br>
 
 ![Gambar 2](../img/menuregistrasi.png) <br>
