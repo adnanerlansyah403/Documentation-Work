@@ -24,7 +24,7 @@ Setelah menekan tombol continue akan tampil verifikasi akun, Hal ini sepertinya 
 
 ![Gambar 3](../img/verifikasiakun.png) <br>
 
-Ikuti saja petunjuknya dan pilih gambar yang benar, Sampai muncul tanda checklist atau centang seperti berikut ini, kemudian klik create account untuk melanjutkan. <br><br>
+Ikuti saja petunjuknya dan pilih gambar yang benar, Sampai muncul tanda checklist atau centang seperti berikut ini, kemudian klik create account untuk melanjutkan. <br>
 
 ![Gambar 4](../img/verifikasiakun2.png) <br>
 
