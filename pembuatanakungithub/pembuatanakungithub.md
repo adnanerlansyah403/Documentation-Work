@@ -1,7 +1,7 @@
 # Tutorial membuat akun github
 
 ## Langkah Pertama
-1.Kunjungi Situs Resmi Github (github.com) <br>
+1. Kunjungi Situs Resmi Github (github.com) <br>
 Langkah pertama untuk membuat/mendaftar akun github, silahkan kunjungi situs resmi nya di github.com, Kemudian klik tombol Sign Up di pojok kanan atas, Untuk melakukan pendaftaran akun.
 
 ![Gambar 1](../img/websitegithub.png)
@@ -23,3 +23,8 @@ Jika semuanya sudah diisi tahap berikutnya klik continue untuk melanjutkan. <br>
 Setelah menekan tombol continue akan tampil verifikasi akun, Hal ini sepertinya adalah salah satu syarat keamanan dari github untuk mendaftar akun, Agar data yang terisi memang dibuat oleh manusia bukan bot, akan muncul verifikasi seperti memilih gambar dibawah ini, pilih sesuai ketentuan petunjuk misal (pick the spiral galaxy) kita diharuskan untuk memilih galaxy yang berbentuk spiral. <br>
 
 ![Gambar 3](../img/verifikasiakun.png) <br>
+
+Ikuti saja petunjuknya dan pilih gambar yang benar, Sampai muncul tanda checklist atau centang seperti berikut ini, kemudian klik create account untuk melanjutkan. <br><br>
+
+![Gambar 4](../img/verifikasiakun2.png) <br>
+
