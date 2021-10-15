@@ -2,7 +2,7 @@
 
 ## langkah pertama
 yaitu mendownload aplikasi gitnya dengan mengunjungi website nya,berikut linknya. 
-[Github](https://git.scm.com)
+[Link Download](https://git-scm.com/downloads)
 
 ### langkah kedua
 jika sudah memasuki websitenya, lalu pilih bagian download seperti yang ada di tampilan.
