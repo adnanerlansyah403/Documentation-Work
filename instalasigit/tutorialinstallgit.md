@@ -13,7 +13,7 @@ Jika sudah masuk kebagian menu download nya. selanjutnya, akan masuk ke tampilan
 
 nah,jika sudah masuk ke tampilan tersebut. kalian bisa pilih mau download git untuk versi sistem operasi apa yang di inginkan(sesuaikan dengan spesifikasi atau arsitektur dari komputer/laptop kalian) untuk kasus kali ini saya akan mencoba menggunakan sistem operasi windows. Jika kalian sudah mendownload file nya. kita akan ke tahap selanjutnya.
 
-# <h2> langkah ketiga
+#### <h2> langkah ketiga
 Jika file aplikasi gitnya telah kita download, maka kita akan ke tahap selanjutnya. yaitu penginstalannya. nah, pertama-tama coba lah kalian buka terlebih dahulu folder penyimpanan file aplikasi git yang kalian download tadi sebelumnya. jika sudah, kalian klik file nya. lalu ikuti langkah-langkah dari tampilan berikut. di harapkan harus sesuai dengan urutan nya.
 
 Tampilan penempatan dari file download aplikasi git.
