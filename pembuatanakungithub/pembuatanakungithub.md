@@ -32,7 +32,7 @@ Ikuti saja petunjuknya dan pilih gambar yang benar, Sampai muncul tanda checklis
 4. Proses pendaftaran atau pembuatan akun github selesai 
 Langkah terakhir periksa email yang anda daftarkan ke github, Ada 6 digit kode verifikasi yang dikirimkan, isikan kode tersebut ke dalam input kolom yang tersedia di situs github, Setelah di isi secara otomatis anda akan dialihkan ke halaman berikut. <br>
 
-![Gambar 5](../img/verfikasiemailsuccess.png) <br>
+![Gambar 5](../img/verifikasiemailsuccess.png) <br>
 
 Lihat di pojok kiri atas situs ada notifikasi "Your email was verified" artinya email anda sudah ter-verifikasi dan akun github sudah siap digunakan. Nah itulah tadi Cara Mendaftar Atau Membuat Akun Github Terbaru, Github sangat cocok untuk digunakan programmer apalagi yang sering bekerjasama dengan team atau menyimpan source code, Dengan menggunakan github kita bisa memanjemen proyek atau source code yang dikembangkan dengan lebih fleksibel dan terstruktur, Sekian artikel kali ini semoga bermanfaat
 
