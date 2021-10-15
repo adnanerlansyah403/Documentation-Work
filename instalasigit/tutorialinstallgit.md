@@ -18,29 +18,29 @@ Jika file aplikasi gitnya telah kita download, maka kita akan ke tahap selanjutn
 
 Tampilan penempatan dari file download aplikasi git.
 ![Gambar instalasi 1](../img/ssinstall1.JPG)
-<br>Maka akan muncul infomasi lisensi Git, klik Next > untuk melanjutkan.
+<br>Maka akan muncul infomasi lisensi Git, klik Next > untuk melanjutkan.<br>
 ![Gambar instalasi 2](../img/ssinstall2.JPG)
-<br>Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian klik Next >.
+<br>Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian klik Next >.<br>
 ![Gambar instalasi 3](../img/ssinstall3.JPG)
-<br>Selanjutnya pemilihan komoponen, biarkan saja seperti ini kemudian klik Next >.
+<br>Selanjutnya pemilihan komoponen, biarkan saja seperti ini kemudian klik Next >.<br>
 ![Gambar instalasi 4](../img/ssinstall4.JPG)
 <br>Selanjutnya pemlilihan direktori start menu, klik Next >.
 ![Gambar instalasi 5](../img/ssinstall5.JPG)
-<br>Selanjutnya pengaturan PATH Environment. Pilih yang tengah agar perintah git dapat di kenali di Command Prompt (CMD). Setelah itu klik Next >.
+<br>Selanjutnya pengaturan PATH Environment. Pilih yang tengah agar perintah git dapat di kenali di Command Prompt (CMD). Setelah itu klik Next >.<br>
 ![Gambar instalasi 6](../img/ssinstall6.JPG)
-<br>Selanjutnya konversi line ending. Biarkan saja seperti ini, kemudian klik Next >.
+<br>Selanjutnya konversi line ending. Biarkan saja seperti ini, kemudian klik Next >.<br>
 ![Gambar instalasi 7](../img/ssinstall7.JPG)
-<br>Selanjutnya pemilihan emulator terminal. Pilih saja yang bawah, kemudian klik Next >.
+<br>Selanjutnya pemilihan emulator terminal. Pilih saja yang bawah, kemudian klik Next >.<br>
 ![Gambar instalasi 8](../img/ssinstall8.JPG)
-<br>Selanjutnya pemilihan opsi ekstra. Klik saja Next >.
+<br>Selanjutnya pemilihan opsi ekstra. Klik saja Next >.<br>
 ![Gambar instalasi 9](../img/ssinstall9.JPG)
-<br>Selanjutnya pemilihan opsi ekspreimental, langsung saja klik Install untuk memaulai instalasi.
+<br>Selanjutnya pemilihan opsi ekspreimental, langsung saja klik Install untuk memaulai instalasi.<br>
 ![Gambar instalasi 10](../img/ssinstall10.JPG)
-<br>Tunggu beberapa saat, instalasi sedang dilakukan.
+<br>Tunggu beberapa saat, instalasi sedang dilakukan.<br>
 ![Gambar instalasi 11](../img/ssinstall11.JPG)
-<br>Setelah selesai, kita bisa langsung klik Finish.
+<br>Setelah selesai, kita bisa langsung klik Finish.<br>
 ![Gambar instalasi 12](../img/ssinstall12.JPG)
 <br>
-Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah git --version.
+Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah git --version.<br>
 
 
