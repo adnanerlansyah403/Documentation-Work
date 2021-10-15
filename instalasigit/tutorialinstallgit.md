@@ -4,7 +4,7 @@
 yaitu mendownload aplikasi gitnya dengan mengunjungi website nya,berikut linknya. 
 [Link Download](https://git-scm.com/downloads)
 
-### langkah kedua <h2><hr>
+### langkah kedua <h2>
 jika sudah memasuki websitenya, lalu pilih bagian download seperti yang ada di tampilan.
 ![Gambar 1](../img/ss1tutorialinstallgit.png)
 
