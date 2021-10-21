@@ -11,7 +11,6 @@ sebelumnya,buat lah terlebih dahulu folder untuk di jadikan folder repositorynya
 ```sh
 git add (fileName)
 ```
-<br>
 3. setelah file di add,kita commit terlebih dahulu file/foldernya, dengan perintah :
 <br>
 ```sh
