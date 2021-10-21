@@ -3,8 +3,9 @@
 ```sh
 git init
 ```
+sebelumnya,buat lah terlebih dahulu folder untuk di jadikan folder repositorynya.
 <br>
-- sebelumnya,buat lah terlebih dahulu folder untuk di jadikan folder repositorynya. <br>
+ <br>
 2. Jika sudah membuat folder repositorynya. lanjut membuat file untuk nanti di kirimkan ke githubnya dengan remote. dengan perintah : 
 <br>
 ```sh
