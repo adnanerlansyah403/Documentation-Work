@@ -15,7 +15,7 @@ git add (fileName)
 3. setelah file di add,kita commit terlebih dahulu file/foldernya, dengan perintah :
 <br>
 ```sh
-echo "git commit -m 'new file'"
+git add
 ```
 <br>
 4. jika sudah membuat filenya,maka kita tinggal hubungkan/remote git yang ada di pc kita dengan github. dengan perintah :
