@@ -21,7 +21,7 @@ git commit -m "new file"
 4. jika sudah membuat filenya,maka kita tinggal hubungkan/remote git yang ada di pc kita dengan github. dengan perintah :
 <br>
 ```sh
-git remote add origin '<alamat repository/ link repositorynya>'
+git remote add origin (alamat repository/ link repositorynya)
 ```
 <br>
 5. Melakukan push untuk memasukkan file yang sudah kita buat tadi ke dalam link repository yang sudah kita remote tadi. dengan perintah :
