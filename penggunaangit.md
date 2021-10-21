@@ -15,6 +15,10 @@ git commit -m "new file"
 ```sh
 git remote add origin <alamat repository/link repositorynya>
 ```
+5. Melakukan push untuk memasukkan file yang sudah kita buat tadi ke dalam link repository yang sudah kita remote tadi. dengan perintah : <br>
+```sh
+git push -u origin main
+```
 
 
 
