@@ -5,8 +5,8 @@ git init
 ```
 sebelumnya,buat lah terlebih dahulu folder untuk di jadikan folder repositorynya.
 <br>
- <br>
-2. Jika sudah membuat folder repositorynya. lanjut membuat file untuk nanti di kirimkan ke githubnya dengan remote. dengan perintah : 
+<br>
+2. jika sudah membuat folder repositorynya. lanjut membuat file untuk nanti di kirimkan ke githubnya dengan remote. dengan perintah : 
 <br>
 ```sh
 git add (fileName)
@@ -15,7 +15,7 @@ git add (fileName)
 3. setelah file di add,kita commit terlebih dahulu file/foldernya, dengan perintah :
 <br>
  ```sh
-git commit -m "new file"
+git commit '-m' "new file"
 ```
 <br>
 4. jika sudah membuat filenya,maka kita tinggal hubungkan/remote git yang ada di pc kita dengan github. dengan perintah :
